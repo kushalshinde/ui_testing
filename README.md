@@ -1,8 +1,8 @@
 # UI_Testing_Selenium_Webdiver
 
 ### PURPOSE
-This project plan describes both UI and API frameworks to test the Rescale platform for uploading a new file.
-It only tests the happy path for successfully uploading a file through API and User Interface.
+This project plan describes UI framework to test the Rescale platform by uploading a new file.
+It only tests the happy path for successfully uploading a file through a User Interface.
 
 ### OVERVIEW
 The automation tool I used to create the UI test framework is Selenium Web driver using
